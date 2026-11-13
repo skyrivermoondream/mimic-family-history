@@ -4,7 +4,7 @@
 
 ![封面](preview/cover.jpg)
 
-这是 B 站 UP 主 “ONE-G万机” 的科普视频[《Mimic 家族简史》](https://www.bilibili.com/video/BV1zs486QEN7/)的配套 PPT（组会分享版）。它把这几年名字里带 “Mimic” 的人形机器人全身运控方法理了一遍：从哪来，彼此什么关系，为什么能发展到今天，又留下了哪些开放问题。
+这是 B 站 UP 主 “ONE-G万机” 的科普视频[《Mimic 家族简史》](https://www.bilibili.com/video/BV1zs486QEN7/)的配套 PPT。它把这几年名字里带 “Mimic” 的人形机器人全身运控方法理了一遍：从哪来，彼此什么关系，为什么能发展到今天，又留下了哪些开放问题。
 
 ## 下载
 
